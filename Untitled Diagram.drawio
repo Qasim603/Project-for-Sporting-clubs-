@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="27.0.4">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.0.4">
   <diagram name="Page-1" id="VaVtWK3H83Irznd1dzYW">
-    <mxGraphModel dx="778" dy="1629" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="786" dy="1898" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -98,7 +98,7 @@
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CIxCF5sjJKE13IdC6mte-23" value="Member" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="CIxCF5sjJKE13IdC6mte-23" value="Member&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="80" y="60" width="160" height="170" as="geometry" />
         </mxCell>
         <mxCell id="CIxCF5sjJKE13IdC6mte-24" value="&lt;b&gt;id full-name&amp;nbsp;&lt;/b&gt;&lt;div&gt;&lt;b&gt;phone&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;email&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;join_date&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;status&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;payment_id&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;" parent="CIxCF5sjJKE13IdC6mte-23" vertex="1">
@@ -292,7 +292,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="gWsXjTKqGsg63xJUSAiU-1" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;&lt;b&gt;prepped by :Mustafa Fayazi,qasim Nabil,maiwand Abbasi&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="gWsXjTKqGsg63xJUSAiU-1" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;&lt;b&gt;prepped by :Mustafa Fayazi,qasim Nabil,maiwand Abbasi&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="140" y="-150" width="530" height="70" as="geometry" />
         </mxCell>
         <mxCell id="CIxCF5sjJKE13IdC6mte-66" value="" style="edgeStyle=orthogonalEdgeStyle;fontSize=12;html=1;endArrow=ERmandOne;startArrow=ERmandOne;rounded=0;exitX=0.974;exitY=0.244;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" target="CIxCF5sjJKE13IdC6mte-24" edge="1">
