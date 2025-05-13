@@ -310,8 +310,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="gWsXjTKqGsg63xJUSAiU-1" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;&lt;b&gt;prepped by :Mustafa Fayazi,qasim Nabil,maiwand Abbasi&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#B8552A;gradientColor=default;" parent="1" vertex="1">
-          <mxGeometry x="140" y="-150" width="550" height="60" as="geometry" />
+        <mxCell id="gWsXjTKqGsg63xJUSAiU-1" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;&lt;b&gt;prepped by :Mustafa Fayazi,qasim Nabil,maiwand Abbasi&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="140" y="-150" width="530" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
