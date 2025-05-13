@@ -178,12 +178,6 @@
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CIxCF5sjJKE13IdC6mte-43" value="tem" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="620" y="260" width="160" height="170" as="geometry" />
-        </mxCell>
-        <mxCell id="CIxCF5sjJKE13IdC6mte-44" value="Id&lt;div&gt;username&lt;/div&gt;&lt;div&gt;password_hash&lt;/div&gt;&lt;div&gt;role&lt;/div&gt;&lt;div&gt;member_id&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;" parent="CIxCF5sjJKE13IdC6mte-43" vertex="1">
-          <mxGeometry y="50" width="160" height="120" as="geometry" />
-        </mxCell>
         <mxCell id="CIxCF5sjJKE13IdC6mte-45" value="ClassMembers" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" parent="1" vertex="1">
           <mxGeometry x="350" y="360" width="180" height="220" as="geometry" />
         </mxCell>
