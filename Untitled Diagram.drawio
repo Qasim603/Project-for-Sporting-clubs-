@@ -105,7 +105,7 @@
           <mxGeometry y="50" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="nggVppJ0JrF6415Kkqda-25" value="Trainer" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="610" y="30" width="160" height="140" as="geometry" />
+          <mxGeometry x="630" y="60" width="160" height="140" as="geometry" />
         </mxCell>
         <mxCell id="nggVppJ0JrF6415Kkqda-26" value="id (pk)&lt;div&gt;full_name&amp;nbsp;&lt;/div&gt;&lt;div&gt;phone&lt;/div&gt;&lt;div&gt;email&lt;/div&gt;&lt;div&gt;workhour&lt;br&gt;&lt;br&gt;&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;" parent="nggVppJ0JrF6415Kkqda-25" vertex="1">
           <mxGeometry y="50" width="160" height="90" as="geometry" />
@@ -212,7 +212,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="nggVppJ0JrF6415Kkqda-46" value="Equipment" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" parent="1" vertex="1">
-          <mxGeometry x="620" y="291" width="180" height="245" as="geometry" />
+          <mxGeometry x="650" y="300" width="180" height="245" as="geometry" />
         </mxCell>
         <mxCell id="nggVppJ0JrF6415Kkqda-47" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="nggVppJ0JrF6415Kkqda-46" vertex="1">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
@@ -306,7 +306,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="nggVppJ0JrF6415Kkqda-68" value="Class_Member" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;flipH=1;" parent="1" vertex="1">
-          <mxGeometry x="340" y="406" width="180" height="130" as="geometry" />
+          <mxGeometry x="340" y="414" width="180" height="130" as="geometry" />
         </mxCell>
         <mxCell id="nggVppJ0JrF6415Kkqda-69" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="nggVppJ0JrF6415Kkqda-68" vertex="1">
           <mxGeometry y="30" width="180" height="40" as="geometry" />
